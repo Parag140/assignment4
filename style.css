@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+h1{
+    display: flex;
+    color: blue;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+}
+p{
+    color: rgb(198, 99, 198);
+    font-style: oblique;
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    background-color: green;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
